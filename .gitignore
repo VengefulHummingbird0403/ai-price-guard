@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & DB
+.env
+*.db
+backend/price_guard.db
+
+# Node
+frontend/node_modules/
+frontend/.next/
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
